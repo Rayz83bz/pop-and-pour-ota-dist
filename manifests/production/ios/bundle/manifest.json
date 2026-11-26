@@ -1,0 +1,35 @@
+{
+  "payload": {
+    "schemaVersion": 1,
+    "channel": "production",
+    "buildEnvironment": "production",
+    "platform": "ios",
+    "updateKind": "bundle_code",
+    "sequence": 1,
+    "bundleVersion": "1.1.1",
+    "minNativeVersion": "1.1.0",
+    "capacitorRuntimeMajor": 8,
+    "minSaveSchemaVersion": 1,
+    "maxSaveSchemaVersion": 3,
+    "publishedAt": "2026-11-26T16:07:05.398Z",
+    "expiresAt": "2027-02-24T16:07:05.398Z",
+    "sourceCommitSha": "92895e1df0bd471c2b746fe9052c0aa1da4cd0bd",
+    "bundleUrl": "https://github.com/Rayz83bz/pop-and-pour-ota-dist/releases/download/ota-production-ios-bundle-v1.1.1-seq1/poppour-ota-production-ios-1.1.1.zip",
+    "bundleSha256": "b0cb28a5b71aeb14d897810bcc7c769286061e8016f5e5a4e3081238e38f6175",
+    "policyAttestation": {
+      "apple252Compliant": true,
+      "appleDpla331BCompliant": true,
+      "googlePlayPolicyCompliant": true,
+      "releaseScope": "bugfix_ui_assets",
+      "changesCoreFeaturesOrBinary": false,
+      "changesPrimaryPurpose": false,
+      "requiresNativeStoreReview": false,
+      "modifiesMonetizationOrIap": false,
+      "loadsExternalExecutableCode": false
+    },
+    "releaseNotes": "Aggiornamento OTA Production"
+  },
+  "signatureAlgorithm": "ECDSA_P256_SHA256",
+  "keyId": "poppour-ota-00d65d0941bf69dd",
+  "signature": "vrOZoY5QXCV8c/rh74isxmQmf8j5Zk6UCI0PeUzx9uEuGTuaff+XS1Vn9Wy9hxAWeAcIJenAIOAm3wrFWc0vhA=="
+}

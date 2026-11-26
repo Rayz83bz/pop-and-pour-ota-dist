@@ -1,0 +1,35 @@
+{
+  "payload": {
+    "schemaVersion": 1,
+    "channel": "production",
+    "buildEnvironment": "production",
+    "platform": "android",
+    "updateKind": "bundle_code",
+    "sequence": 1,
+    "bundleVersion": "1.1.1",
+    "minNativeVersion": "1.1.0",
+    "capacitorRuntimeMajor": 8,
+    "minSaveSchemaVersion": 1,
+    "maxSaveSchemaVersion": 3,
+    "publishedAt": "2026-11-26T16:06:57.342Z",
+    "expiresAt": "2027-02-24T16:06:57.342Z",
+    "sourceCommitSha": "92895e1df0bd471c2b746fe9052c0aa1da4cd0bd",
+    "bundleUrl": "https://github.com/Rayz83bz/pop-and-pour-ota-dist/releases/download/ota-production-android-bundle-v1.1.1-seq1/poppour-ota-production-android-1.1.1.zip",
+    "bundleSha256": "82250b1b50173506a62b99c834ea285cc5443f6dd62823c195b34ccac407e45e",
+    "policyAttestation": {
+      "apple252Compliant": true,
+      "appleDpla331BCompliant": true,
+      "googlePlayPolicyCompliant": true,
+      "releaseScope": "bugfix_ui_assets",
+      "changesCoreFeaturesOrBinary": false,
+      "changesPrimaryPurpose": false,
+      "requiresNativeStoreReview": false,
+      "modifiesMonetizationOrIap": false,
+      "loadsExternalExecutableCode": false
+    },
+    "releaseNotes": "Aggiornamento OTA Production"
+  },
+  "signatureAlgorithm": "ECDSA_P256_SHA256",
+  "keyId": "poppour-ota-00d65d0941bf69dd",
+  "signature": "I4KlocbtYRtm0ZzfpnehLNfPwfID87nhI3Jq+WmKDovg/7s1Wvor4PnYkkQh9vrmzQAlZsbtieOFOpxRiArong=="
+}
